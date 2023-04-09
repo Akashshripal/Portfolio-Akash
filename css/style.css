@@ -429,6 +429,10 @@ header{
    .social-list__link{
       padding: .5em;
    }
+   .footer .contact-btn{
+ color:var(--clr-dark); 
+ font-weight: var(--fw-bold);
+ }
    
    /* individual portfolio item style */
    
@@ -447,3 +451,4 @@ header{
    .portfolio-item-individual img{
         margin: 0 auto;
    }   
+  
