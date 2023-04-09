@@ -99,7 +99,7 @@ h3{font-size:var(--fs-h3);}
 .section__title--intro{
     font-weight: var(--fw-reg);
     margin-top: .1em;
-    
+    margin-bottom: .50em;
 }
 .section__title--intro strong{
     display: block;
